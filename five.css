@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.head{
+    color: green;
+}
+.image{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+}
+.image-1{
+    display: inline-block;
+    margin: 90px;
+}
+.image-2{
+    display: inline-block;
+    margin: 90px;
+}
+.image-3{
+    display: inline-block;
+    margin: 90px;
+}
+.head-2{
+    color:green;
+    width: 300px;
+}

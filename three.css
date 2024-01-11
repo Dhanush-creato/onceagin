@@ -1,0 +1,58 @@
+.container-1{
+    text-align: center;
+    line-height: 15px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+.a{
+    margin: 10px;
+
+}
+.navbar{
+    text-align: center;
+}
+.a:hover{
+    cursor: pointer;
+    background-color: red;
+}
+.head{
+    text-align: center;
+}
+.head-1{
+    color: green;
+    margin-left:50px;
+}
+.image-1{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+}
+.head-2{
+    margin-left: 45px;
+    color:green;
+    width: 180px;
+}
+.head-2:hover{
+    cursor: pointer;
+    background-color: red;
+    border-radius: 10px;
+}
+.image{
+    display: inline-block;
+    margin: 35px;
+}
+.head-4{
+    
+    color: green;
+    width: 220px;
+    margin-left: 1250px;
+    
+    
+}
+.head-4:hover{
+    background-color: red;
+
+}
